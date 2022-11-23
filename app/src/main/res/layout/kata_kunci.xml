@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="15dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:justificationMode="inter_word"
+            android:text="Dokumentasi, observasi, kelompok, manajemen proyek, pengembangan
+aplikasi, desain aplikasi
+Bab 9 Praktika Lintas Bidang Informatika 233
+Pengalaman berbelanja online merupakan salah satu bentuk nyata
+pemanfaatan teknologi informasi dalam kehidupan keseharian kita.Tentu,
+dalam proses pengembangan e-commerce agar bisa sebesar sekarang, banyak
+langkah yang perlu dilalui. Langkah awal pasti memerlukan analisis masalah
+dan mencari berbagai macam alternatif solusi. Proses dilanjutkan dengan
+mengembangkan aplikasi, lalu melakukan pengujian ke masyarakat. Proses
+mengembangkan sebuah aplikasi sebenarnya merupakan salah satu kegiatan
+yang memerlukan manajemen proyek."
+            android:textAlignment="textStart" />
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

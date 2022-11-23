@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+           >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:orientation="vertical">
+            </LinearLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:justificationMode="inter_word"
+                    android:text="A. Pengarahan Guru dan Observasi \n
+Dalam proyek berjangka waktu agak lama ini, kalian akan bekerja dalam
+kelompok, dan juga akan mendapat bagian pekerjaan mandiri. Bekerja dalam
+kelompok perlu untuk membangun budaya kerja berkolaborasi yang kalian
+perlukan karena pada hakikatnya, suatu karya besar tidak mungkin dikerjakan
+sendiri. Sebuah karya besar adalah karya bersama sekumpulan orang, yang
+bahkan kelak, berasal dari berbagai latar belakang ilmu. \n
+Mari, kita latihan untuk membangun sebuah produk berupa program
+aplikasi yang akan berguna sebagai solusi permasalahan di sekitar kita,
+yang tidak terlalu besar tentunya, karena waktu kita yang terbatas. Kalian
+akan menyadari bahwa aplikasi komputer itu hanya sebagian dari solusi
+permasalahan yang ada." />
+
+
+
+
+        </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
